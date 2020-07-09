@@ -1,0 +1,285 @@
+a1.medium	$0.0049 per Hour	N/A*
+a1.large	$0.0098 per Hour	N/A*
+a1.xlarge	$0.0197 per Hour	N/A*
+a1.2xlarge	$0.0394 per Hour	N/A*
+a1.4xlarge	$0.0788 per Hour	N/A*
+a1.metal	$0.0788 per Hour	N/A*
+t2.micro	$0.0035 per Hour	$0.0081 per Hour
+t2.small	$0.0069 per Hour	$0.0159 per Hour
+t2.medium	$0.0145 per Hour	$0.0319 per Hour
+t2.large	$0.0278 per Hour	$0.0558 per Hour
+t2.xlarge	$0.0557 per Hour	$0.0967 per Hour
+t2.2xlarge	$0.1114 per Hour	$0.1734 per Hour
+t3.nano	$0.0016 per Hour	$0.0062 per Hour
+t3.micro	$0.0031 per Hour	$0.0123 per Hour
+t3.small	$0.0062 per Hour	$0.0246 per Hour
+t3.medium	$0.0125 per Hour	$0.0309 per Hour
+t3.large	$0.025 per Hour	$0.0526 per Hour
+t3.xlarge	$0.0499 per Hour	$0.1235 per Hour
+t3.2xlarge	$0.0998 per Hour	$0.247 per Hour
+t3a.2xlarge	$0.0902 per Hour	$0.2374 per Hour
+t3a.large	$0.0226 per Hour	$0.0502 per Hour
+t3a.medium	$0.0113 per Hour	$0.0297 per Hour
+t3a.micro	$0.0028 per Hour	$0.012 per Hour
+t3a.nano	$0.0015 per Hour	$0.006 per Hour
+t3a.small	$0.0058 per Hour	$0.024 per Hour
+t3a.xlarge	$0.0451 per Hour	$0.1187 per Hour
+m3.medium	N/A*	N/A*
+m3.large	N/A*	N/A*
+m3.xlarge	N/A*	N/A*
+m3.2xlarge	N/A*	N/A*
+m4.large	$0.0206 per Hour	$0.111 per Hour
+m4.xlarge	$0.038 per Hour	$0.222 per Hour
+m4.2xlarge	$0.0844 per Hour	$0.444 per Hour
+m4.4xlarge	$0.1808 per Hour	$0.888 per Hour
+m4.10xlarge	$0.4197 per Hour	$2.2201 per Hour
+m4.16xlarge	$0.6369 per Hour	$3.5521 per Hour
+m5.large	$0.02 per Hour	$0.112 per Hour
+m5.xlarge	$0.0408 per Hour	$0.2239 per Hour
+m5.2xlarge	$0.0813 per Hour	$0.4478 per Hour
+m5.4xlarge	$0.183 per Hour	$0.8956 per Hourg
+m5.8xlarge	$0.3193 per Hour	$1.7913 per Hour
+m5.12xlarge	$0.5344 per Hour	$2.6869 per Hour
+m5.16xlarge	$0.6385 per Hour	$3.5825 per Hour
+m5.24xlarge	$0.9578 per Hour	$5.3738 per Hour
+m5ad.large	$0.02 per Hour	$0.112 per Hour
+m5ad.xlarge	$0.0399 per Hour	$0.2239 per Hour
+m5ad.2xlarge	$0.0888 per Hour	$0.4478 per Hour
+m5ad.4xlarge	$0.1903 per Hour	$0.8956 per Hour
+m5ad.8xlarge	N/A*	N/A*
+m5ad.12xlarge	$0.4789 per Hour	$2.6869 per Hour
+m5ad.16xlarge	N/A*	N/A*
+m5ad.24xlarge	$0.9578 per Hour	$5.3738 per Hour
+m5d.large	$0.02 per Hour	$0.112 per Hour
+m5d.xlarge	$0.0407 per Hour	$0.2239 per Hour
+m5d.2xlarge	$0.0849 per Hour	$0.4478 per Hour
+m5d.4xlarge	$0.1815 per Hour	$0.8956 per Hour
+m5d.8xlarge	$0.323 per Hour	$1.7913 per Hour
+m5d.12xlarge	$0.6033 per Hour	$2.6869 per Hour
+m5d.16xlarge	$0.6385 per Hour	$3.5825 per Hour
+m5d.24xlarge	$1.0145 per Hour	$5.3738 per Hour
+m5n.large	$0.02 per Hour	$0.112 per Hour
+m5n.xlarge	$0.0399 per Hour	$0.2239 per Hour
+m5n.2xlarge	$0.0798 per Hour	$0.4478 per Hour
+m5n.4xlarge	$0.1596 per Hour	$0.8956 per Hour
+m5n.8xlarge	$0.3193 per Hour	$1.7913 per Hour
+m5n.12xlarge	$0.4789 per Hour	$2.6869 per Hour
+m5n.16xlarge	$0.6385 per Hour	$3.5825 per Hour
+m5n.24xlarge	$0.9578 per Hour	$5.3738 per Hour
+m5dn.large	$0.02 per Hour	$0.112 per Hour
+m5dn.xlarge	$0.0399 per Hour	$0.2239 per Hour
+m5dn.2xlarge	$0.0798 per Hour	$0.4478 per Hour
+m5dn.4xlarge	$0.1596 per Hour	$0.8956 per Hour
+m5dn.8xlarge	$0.3193 per Hour	$1.7913 per Hour
+m5dn.12xlarge	$0.4789 per Hour	$2.6869 per Hour
+m5dn.16xlarge	$0.6636 per Hour	$3.5825 per Hour
+m5dn.24xlarge	$0.9578 per Hour	$5.3738 per Hour
+m5a.large	$0.02 per Hour	$0.112 per Hour
+m5a.xlarge	$0.0419 per Hour	$0.2239 per Hour
+m5a.2xlarge	$0.0891 per Hour	$0.4478 per Hour
+m5a.4xlarge	$0.1852 per Hour	$0.8956 per Hour
+m5a.8xlarge	$0.3238 per Hour	$1.7913 per Hour
+m5a.12xlarge	$0.5805 per Hour	$2.6869 per Hour
+m5a.16xlarge	$0.6385 per Hour	$3.5825 per Hour
+m5a.24xlarge	$0.9578 per Hour	$5.3738 per Hour
+m6g.medium	$0.0385 per Hour	N/A*
+m6g.large	$0.077 per Hour	N/A*
+m6g.xlarge	$0.0419 per Hour	N/A*
+m6g.2xlarge	$0.0838 per Hour	N/A*
+m6g.4xlarge	$0.1676 per Hour	N/A*
+m6g.8xlarge	$0.3352 per Hour	N/A*
+m6g.12xlarge	$0.5028 per Hour	N/A*
+m6g.16xlarge	$0.6705 per Hour	N/A*
+m6g.metal	$1.0057 per Hour	N/A*
+General Purpose - Previous Generation
+m1.small	N/A*	N/A*
+m1.medium	N/A*	N/A*
+m1.large	N/A*	N/A*
+m1.xlarge	N/A*	N/A*
+Compute Optimized - Current Generation
+c6g.medium	$0.034 per Hour	N/A*
+c6g.large	$0.068 per Hour	N/A*
+c6g.xlarge	$0.0399 per Hour	N/A*
+c6g.2xlarge	$0.0798 per Hour	N/A*
+c6g.4xlarge	$0.1596 per Hour	N/A*
+c6g.8xlarge	$0.3193 per Hour	N/A*
+c6g.12xlarge	$0.4789 per Hour	N/A*
+c6g.16xlarge	$0.6385 per Hour	N/A*
+c6g.metal	$1.9156 per Hour	N/A*
+c5a.large	$0.019 per Hour	$0.111 per Hour
+c5a.xlarge	$0.0392 per Hour	$0.2226 per Hour
+c5a.2xlarge	$0.076 per Hour	$0.444 per Hour
+c5a.4xlarge	$0.152 per Hour	$0.888 per Hour
+c5a.8xlarge	$0.3041 per Hour	$1.7761 per Hour
+c5a.12xlarge	$0.4561 per Hour	$2.6641 per Hour
+c5a.16xlarge	$0.6081 per Hour	$3.5521 per Hour
+c5a.24xlarge	$0.9122 per Hour	$5.3282 per Hour
+c5.large	$0.0195 per Hour	$0.111 per Hour
+c5.xlarge	$0.0418 per Hour	$0.222 per Hour
+c5.2xlarge	$0.084 per Hour	$0.444 per Hour
+c5.4xlarge	$0.1693 per Hour	$0.888 per Hour
+c5.9xlarge	$0.3609 per Hour	$1.9981 per Hour
+c5.12xlarge	$0.5849 per Hour	$2.6641 per Hour
+c5.18xlarge	$0.8518 per Hour	$3.9961 per Hour
+c5.24xlarge	$0.9462 per Hour	$5.3282 per Hour
+c5.metal	$0.9122 per Hour	$5.3282 per Hour
+c5d.large	$0.019 per Hour	$0.111 per Hour
+c5d.xlarge	$0.0417 per Hour	$0.222 per Hour
+c5d.2xlarge	$0.076 per Hour	$0.444 per Hour
+c5d.4xlarge	$0.1592 per Hour	$0.888 per Hour
+c5d.9xlarge	$0.3578 per Hour	$1.9981 per Hour
+c5d.12xlarge	$0.5983 per Hour	$2.6641 per Hour
+c5d.18xlarge	$0.9409 per Hour	$3.9961 per Hour
+c5d.24xlarge	$0.9122 per Hour	$5.3282 per Hour
+c5d.metal	$0.9122 per Hour	$5.3282 per Hour
+c5n.large	$0.019 per Hour	$0.111 per Hour
+c5n.xlarge	$0.038 per Hour	$0.222 per Hour
+c5n.2xlarge	$0.0887 per Hour	$0.444 per Hour
+c5n.4xlarge	$0.1346 per Hour	$0.8706 per Hour
+c5n.9xlarge	$0.3544 per Hour	$1.9981 per Hour
+c5n.18xlarge	$0.6841 per Hour	$3.9961 per Hour
+c5n.metal	$0.9122 per Hour	$4.2242 per Hour
+c3.large	N/A*	N/A*
+c3.xlarge	N/A*	N/A*
+c3.2xlarge	N/A*	N/A*
+c3.4xlarge	N/A*	N/A*
+c3.8xlarge	N/A*	N/A*
+c4.large	$0.0182 per Hour	$0.1101 per Hour
+c4.xlarge	$0.0364 per Hour	$0.2202 per Hour
+c4.2xlarge	$0.0782 per Hour	$0.4404 per Hour
+c4.4xlarge	$0.17 per Hour	$0.8808 per Hour
+c4.8xlarge	$0.3318 per Hour	$1.7896 per Hour
+d2.xlarge	$0.207 per Hour	$0.338 per Hour
+d2.2xlarge	$0.414 per Hour	$0.635 per Hour
+d2.4xlarge	$0.828 per Hour	$1.13 per Hour
+d2.8xlarge	$1.656 per Hour	$2.334 per Hour
+h1.2xlarge	$0.1404 per Hour	$0.5084 per Hour
+h1.4xlarge	$0.2808 per Hour	$1.0168 per Hour
+h1.8xlarge	$0.5616 per Hour	$2.0336 per Hour
+h1.16xlarge	$3.744 per Hour	$6.688 per Hour
+i2.xlarge	$0.2559 per Hour	$0.3759 per Hour
+i2.2xlarge	$0.5115 per Hour	$0.7525 per Hour
+i2.4xlarge	$1.1253 per Hour	$1.6063 per Hour
+i2.8xlarge	$3.9417 per Hour	$4.1502 per Hour
+i3.large	$0.0468 per Hour	$0.1388 per Hour
+i3.xlarge	$0.0936 per Hour	$0.2776 per Hour
+i3.2xlarge	$0.2474 per Hour	$0.5552 per Hour
+i3.4xlarge	$0.3744 per Hour	$1.1104 per Hour
+i3.8xlarge	$0.7488 per Hour	$2.2208 per Hour
+i3.16xlarge	$1.4976 per Hour	$4.4416 per Hour
+i3.metal	$1.4976 per Hour	$4.4416 per Hour
+i3en.large	$0.0678 per Hour	$0.1598 per Hour
+i3en.xlarge	$0.1356 per Hour	$0.3196 per Hour
+i3en.2xlarge	$0.2712 per Hour	$0.6392 per Hour
+i3en.3xlarge	$0.4068 per Hour	$0.9588 per Hour
+i3en.6xlarge	$0.8136 per Hour	$1.9176 per Hour
+i3en.12xlarge	$1.6272 per Hour	$3.8352 per Hour
+i3en.24xlarge	$3.2544 per Hour	$7.6704 per Hour
+i3en.metal	$3.2544 per Hour	$7.6704 per Hour
+Compute Optimized - Previous Generation
+c1.medium	N/A*	N/A*
+c1.xlarge	N/A*	N/A*
+GPU Instances - Current Generation
+g2.2xlarge	N/A*	N/A*
+g2.8xlarge	N/A*	N/A*
+g3s.xlarge	$0.225 per Hour	$0.409 per Hour
+g3.4xlarge	$0.342 per Hour	$1.078 per Hour
+g3.8xlarge	$0.684 per Hour	$2.156 per Hour
+g3.16xlarge	$1.368 per Hour	$4.312 per Hour
+g4dn.xlarge	$0.1578 per Hour	$0.3418 per Hour
+g4dn.2xlarge	$0.2256 per Hour	$0.5936 per Hour
+g4dn.4xlarge	$0.3612 per Hour	$1.0972 per Hour
+g4dn.8xlarge	$0.6528 per Hour	$2.1248 per Hour
+g4dn.12xlarge	$1.1736 per Hour	$3.3816 per Hour
+g4dn.16xlarge	$1.3056 per Hour	$4.2496 per Hour
+g4dn.metal	N/A*	N/A*
+p2.xlarge	$0.27 per Hour	$0.454 per Hour
+p2.8xlarge	$2.16 per Hour	$3.632 per Hour
+p2.16xlarge	$4.32 per Hour	$7.264 per Hour
+p3.2xlarge	$0.918 per Hour	$1.286 per Hour
+p3.8xlarge	$3.672 per Hour	$5.144 per Hour
+p3.16xlarge	$7.6883 per Hour	$10.288 per Hour
+p3dn.24xlarge	N/A*	N/A*
+inf1.xlarge	N/A*	N/A*
+inf1.2xlarge	N/A*	N/A*
+inf1.6xlarge	N/A*	N/A*
+inf1.24xlarge	N/A*	N/A*
+Memory Optimized - Current Generation
+x1.16xlarge	$2.0007 per Hour	$4.9447 per Hour
+x1.32xlarge	$4.0014 per Hour	$9.8894 per Hour
+x1e.xlarge	$0.2502 per Hour	$0.4342 per Hour
+x1e.2xlarge	$0.5004 per Hour	$0.8684 per Hour
+x1e.4xlarge	$1.0008 per Hour	$1.7368 per Hour
+x1e.8xlarge	$2.0016 per Hour	$3.4736 per Hour
+x1e.16xlarge	$4.0032 per Hour	$6.9472 per Hour
+x1e.32xlarge	$8.0064 per Hour	$13.8944 per Hour
+r3.large	$0.019 per Hour	$0.144 per Hour
+r3.xlarge	$0.0378 per Hour	$0.2888 per Hour
+r3.2xlarge	$0.0771 per Hour	$0.4567 per Hour
+r3.4xlarge	$0.1548 per Hour	$0.7675 per Hour
+r3.8xlarge	$0.3082 per Hour	$1.1469 per Hour
+r4.large	$0.0202 per Hour	$0.1119 per Hour
+r4.xlarge	$0.0418 per Hour	$0.2238 per Hour
+r4.2xlarge	$0.0796 per Hour	$0.4476 per Hour
+r4.4xlarge	$0.1741 per Hour	$0.8953 per Hour
+r4.8xlarge	$0.3214 per Hour	$1.7905 per Hour
+r4.16xlarge	$0.6391 per Hour	$3.5811 per Hour
+r5.large	$0.0209 per Hour	$0.1129 per Hour
+r5.xlarge	$0.0424 per Hour	$0.2256 per Hour
+r5.2xlarge	$0.0846 per Hour	$0.4515 per Hour
+r5.4xlarge	$0.1851 per Hour	$0.9028 per Hour
+r5.8xlarge	$0.3345 per Hour	$1.8065 per Hour
+r5.12xlarge	$0.5133 per Hour	$2.7084 per Hour
+r5.16xlarge	$0.6689 per Hour	$3.6129 per Hour
+r5.24xlarge	$1.0008 per Hour	$5.4168 per Hour
+r5a.large	$0.0209 per Hour	$0.1129 per Hour
+r5a.xlarge	$0.0418 per Hour	$0.2258 per Hour
+r5a.2xlarge	$0.0842 per Hour	$0.4516 per Hour
+r5a.4xlarge	$0.169 per Hour	$0.9032 per Hour
+r5a.8xlarge	$0.3345 per Hour	$1.8065 per Hour
+r5a.12xlarge	$0.5017 per Hour	$2.7097 per Hour
+r5a.16xlarge	$0.6689 per Hour	$3.6129 per Hour
+r5a.24xlarge	$1.0034 per Hour	$5.4194 per Hour
+r5ad.large	$0.0209 per Hour	$0.1129 per Hour
+r5ad.xlarge	$0.0418 per Hour	$0.2258 per Hour
+r5ad.2xlarge	$0.0836 per Hour	$0.4516 per Hour
+r5ad.4xlarge	$0.168 per Hour	$0.9032 per Hour
+r5ad.8xlarge	N/A*	N/A*
+r5ad.12xlarge	$0.5017 per Hour	$2.7097 per Hour
+r5ad.16xlarge	N/A*	N/A*
+r5ad.24xlarge	$1.0034 per Hour	$5.4194 per Hour
+r5d.large	$0.0209 per Hour	$0.1129 per Hour
+r5d.xlarge	$0.0425 per Hour	$0.226 per Hour
+r5d.2xlarge	$0.1067 per Hour	$0.4519 per Hour
+r5d.4xlarge	$0.2157 per Hour	$0.9038 per Hour
+r5d.8xlarge	$0.3611 per Hour	$1.8065 per Hour
+r5d.12xlarge	$0.5158 per Hour	$2.7115 per Hour
+r5d.16xlarge	$0.6689 per Hour	$3.6129 per Hour
+r5d.24xlarge	$1.0069 per Hour	$5.4229 per Hour
+r5n.large	$0.0209 per Hour	$0.1129 per Hour
+r5n.xlarge	$0.0418 per Hour	$0.2258 per Hour
+r5n.2xlarge	$0.0836 per Hour	$0.4516 per Hour
+r5n.4xlarge	$0.1672 per Hour	$0.9032 per Hour
+r5n.8xlarge	$0.3345 per Hour	$1.8065 per Hour
+r5n.12xlarge	$0.5017 per Hour	$2.7097 per Hour
+r5n.16xlarge	$0.6689 per Hour	$3.6129 per Hour
+r5n.24xlarge	$1.0034 per Hour	$5.4194 per Hour
+r5dn.large	$0.167 per Hour	$0.259 per Hour
+r5dn.xlarge	$0.0418 per Hour	$0.2258 per Hour
+r5dn.2xlarge	$0.0836 per Hour	$0.4516 per Hour
+r5dn.4xlarge	$0.1672 per Hour	$0.9032 per Hour
+r5dn.8xlarge	$0.3345 per Hour	$1.8065 per Hour
+r5dn.12xlarge	$0.5017 per Hour	$2.7097 per Hour
+r5dn.16xlarge	$0.6689 per Hour	$3.6129 per Hour
+r5dn.24xlarge	$1.0034 per Hour	$5.4194 per Hour
+m5.metal	$0.6385 per Hour	$5.0545 per Hour
+m5d.metal	$0.6385 per Hour	$5.0545 per Hour
+r5.metal	$0.6689 per Hour	$5.0849 per Hour
+r5d.metal	$0.6689 per Hour	$5.0849 per Hour
+z1d.large	$0.0558 per Hour	$0.1478 per Hour
+z1d.xlarge	$0.1116 per Hour	$0.2956 per Hour
+z1d.2xlarge	$0.2232 per Hour	$0.5912 per Hour
+z1d.3xlarge	$0.3348 per Hour	$0.8868 per Hour
+z1d.6xlarge	$0.6696 per Hour	$1.7736 per Hour
+z1d.12xlarge	$1.3392 per Hour	$3.5472 per Hour
+z1d.metal	$1.3392 per Hour	$3.5472 per Hour
